@@ -64,10 +64,9 @@
 
 			// Modify, add, or remove the sentences you want to display in the hero section.
 			var rotator_words = [
-				'Make the Jump to Hydro-drive', // First sentence in .title-hero
-				'Super-size Your Company\'s Presence', // Second sentence in .title-hero
-				'Take Your Vision to New Heights', // Third sentence in .title-hero
-				'Energize Your Company with Hydro' // Fourth sentence in .title-hero
+				'Offering 360˚ digital marketing services', // First sentence in .title-hero
+				'Creating identities, building brands, driving interactions', // Second sentence in .title-hero
+				'Producing beautifully crafted creative solutions', // Third sentence in .title-hero
 			] ,
 			counter = 0;
 
