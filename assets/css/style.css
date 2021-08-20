@@ -481,6 +481,7 @@ img {
 	display:inline-block;
 	color:#ffffff;
 	padding-top:20px;
+	white-space: pre-line;
 }
 
 .hero hr {

@@ -64,7 +64,9 @@
 
 			// Modify, add, or remove the sentences you want to display in the hero section.
 			var rotator_words = [
-				'Offering 360˚ digital marketing services', // First sentence in .title-hero
+				`Offering 360˚
+				 digital marketing
+				 services`, // First sentence in .title-hero
 				'Creating identities, building brands, driving interactions', // Second sentence in .title-hero
 				'Producing beautifully crafted creative solutions', // Third sentence in .title-hero
 			] ,
@@ -116,7 +118,7 @@
 			$('.parallax-banner-1').parallax("50%", 0.4);
 			$('.parallax-banner-2').parallax("50%", 0.4);
 			$('.parallax-banner-3').parallax("50%", 0.4);
-			$('.parallax-banner-4').parallax("50%", 0.4);
+			$('.parallax-banner-4').parallax("80%", 0.4);
 			$('.parallax-banner-5').parallax("50%", 0.4);
 			$('.parallax-banner-6').parallax("50%", 0.4);
 
