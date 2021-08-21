@@ -140,7 +140,7 @@
 
 				$('html, body').stop().animate({
 					'scrollTop': $target.offset().top - 0
-				}, 900, 'swing', function () {
+				}, 1500, 'swing', function () {
 					window.location.hash = target;
 				});
 			});
